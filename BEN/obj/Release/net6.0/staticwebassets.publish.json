@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "R4K03qCYbru2uM0XCHRZc0HJXxFHZ2JXW5flb0nksXY=",
+  "Source": "BEN",
+  "BasePath": "_content/BEN",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BEN\\wwwroot",
+      "Source": "BEN",
+      "ContentRoot": "D:\\Projects\\RECAPS\\WebCode\\backend\\Ben-Dashboard-backend-develop\\BEN\\wwwroot\\",
+      "BasePath": "_content/BEN",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Projects\\RECAPS\\WebCode\\backend\\Ben-Dashboard-backend-develop\\BEN\\wwwroot\\Profile\\890cc6bd-804f-4c31-a437-a4b43424a48f_Screenshot 2023-08-15 203151.png",
+      "SourceId": "BEN",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\RECAPS\\WebCode\\backend\\Ben-Dashboard-backend-develop\\BEN\\wwwroot\\",
+      "BasePath": "_content/BEN",
+      "RelativePath": "Profile/890cc6bd-804f-4c31-a437-a4b43424a48f_Screenshot 2023-08-15 203151.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Profile\\890cc6bd-804f-4c31-a437-a4b43424a48f_Screenshot 2023-08-15 203151.png"
+    },
+    {
+      "Identity": "D:\\Projects\\RECAPS\\WebCode\\backend\\Ben-Dashboard-backend-develop\\BEN\\wwwroot\\Profile\\8c0bbb87-7c31-470b-bcfe-daf8e98fd4c3_2023_07_26 3_14 pm Office Lens.jpg",
+      "SourceId": "BEN",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\RECAPS\\WebCode\\backend\\Ben-Dashboard-backend-develop\\BEN\\wwwroot\\",
+      "BasePath": "_content/BEN",
+      "RelativePath": "Profile/8c0bbb87-7c31-470b-bcfe-daf8e98fd4c3_2023_07_26 3_14 pm Office Lens.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Profile\\8c0bbb87-7c31-470b-bcfe-daf8e98fd4c3_2023_07_26 3_14 pm Office Lens.jpg"
+    },
+    {
+      "Identity": "D:\\Projects\\RECAPS\\WebCode\\backend\\Ben-Dashboard-backend-develop\\BEN\\wwwroot\\Profile\\efd27e69-ac5d-49a0-8714-c557aae375ff_Screenshot 2023-08-15 203151.png",
+      "SourceId": "BEN",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\RECAPS\\WebCode\\backend\\Ben-Dashboard-backend-develop\\BEN\\wwwroot\\",
+      "BasePath": "_content/BEN",
+      "RelativePath": "Profile/efd27e69-ac5d-49a0-8714-c557aae375ff_Screenshot 2023-08-15 203151.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Profile\\efd27e69-ac5d-49a0-8714-c557aae375ff_Screenshot 2023-08-15 203151.png"
+    }
+  ]
+}

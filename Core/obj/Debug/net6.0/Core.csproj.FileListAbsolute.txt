@@ -1,0 +1,72 @@
+D:\BEN\Core\bin\Debug\net6.0\Core.deps.json
+D:\BEN\Core\bin\Debug\net6.0\Core.dll
+D:\BEN\Core\bin\Debug\net6.0\Core.pdb
+D:\BEN\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+D:\BEN\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\BEN\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+D:\BEN\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+D:\BEN\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+D:\BEN\Core\obj\Debug\net6.0\Core.dll
+D:\BEN\Core\obj\Debug\net6.0\refint\Core.dll
+D:\BEN\Core\obj\Debug\net6.0\Core.pdb
+D:\BEN\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\Hp\Downloads\BEN\BEN\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\Hp\Downloads\BEN\BEN\Core\bin\Debug\net6.0\Core.dll
+C:\Users\Hp\Downloads\BEN\BEN\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\Hp\Downloads\BEN\BEN\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\Hp\Downloads\BEN\BEN\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Downloads\BEN\BEN\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\Hp\Downloads\BEN\BEN\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\Hp\Downloads\BEN\BEN\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Downloads\BEN\BEN\Core\obj\Debug\net6.0\Core.dll
+C:\Users\Hp\Downloads\BEN\BEN\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\Hp\Downloads\BEN\BEN\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\Hp\Downloads\BEN\BEN\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\DELL\Downloads\BEN (1)\BEN\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\DELL\Downloads\BEN (1)\BEN\Core\bin\Debug\net6.0\Core.dll
+C:\Users\DELL\Downloads\BEN (1)\BEN\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\DELL\Downloads\BEN (1)\BEN\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\BEN (1)\BEN\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\BEN (1)\BEN\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\BEN (1)\BEN\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\DELL\Downloads\BEN (1)\BEN\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\BEN (1)\BEN\Core\obj\Debug\net6.0\Core.dll
+C:\Users\DELL\Downloads\BEN (1)\BEN\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\DELL\Downloads\BEN (1)\BEN\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\DELL\Downloads\BEN (1)\BEN\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\Hp\Downloads\BEN (1)\BEN (1)\BEN\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\Hp\Downloads\BEN (1)\BEN (1)\BEN\Core\bin\Debug\net6.0\Core.dll
+C:\Users\Hp\Downloads\BEN (1)\BEN (1)\BEN\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\Hp\Downloads\BEN (1)\BEN (1)\BEN\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\Hp\Downloads\BEN (1)\BEN (1)\BEN\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Downloads\BEN (1)\BEN (1)\BEN\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\Hp\Downloads\BEN (1)\BEN (1)\BEN\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\Hp\Downloads\BEN (1)\BEN (1)\BEN\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Downloads\BEN (1)\BEN (1)\BEN\Core\obj\Debug\net6.0\Core.dll
+C:\Users\Hp\Downloads\BEN (1)\BEN (1)\BEN\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\Hp\Downloads\BEN (1)\BEN (1)\BEN\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\Hp\Downloads\BEN (1)\BEN (1)\BEN\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\admin\OneDrive\Documents\ben\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\admin\OneDrive\Documents\ben\Core\bin\Debug\net6.0\Core.dll
+C:\Users\admin\OneDrive\Documents\ben\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\admin\OneDrive\Documents\ben\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Documents\ben\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Documents\ben\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Documents\ben\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Documents\ben\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Documents\ben\Core\obj\Debug\net6.0\Core.dll
+C:\Users\admin\OneDrive\Documents\ben\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\admin\OneDrive\Documents\ben\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\admin\OneDrive\Documents\ben\Core\obj\Debug\net6.0\ref\Core.dll
+D:\Projects\RECAPS\WebCode\backend\Ben-Dashboard-backend-develop\Core\bin\Debug\net6.0\Core.deps.json
+D:\Projects\RECAPS\WebCode\backend\Ben-Dashboard-backend-develop\Core\bin\Debug\net6.0\Core.dll
+D:\Projects\RECAPS\WebCode\backend\Ben-Dashboard-backend-develop\Core\bin\Debug\net6.0\Core.pdb
+D:\Projects\RECAPS\WebCode\backend\Ben-Dashboard-backend-develop\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+D:\Projects\RECAPS\WebCode\backend\Ben-Dashboard-backend-develop\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\RECAPS\WebCode\backend\Ben-Dashboard-backend-develop\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+D:\Projects\RECAPS\WebCode\backend\Ben-Dashboard-backend-develop\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+D:\Projects\RECAPS\WebCode\backend\Ben-Dashboard-backend-develop\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+D:\Projects\RECAPS\WebCode\backend\Ben-Dashboard-backend-develop\Core\obj\Debug\net6.0\Core.dll
+D:\Projects\RECAPS\WebCode\backend\Ben-Dashboard-backend-develop\Core\obj\Debug\net6.0\refint\Core.dll
+D:\Projects\RECAPS\WebCode\backend\Ben-Dashboard-backend-develop\Core\obj\Debug\net6.0\Core.pdb
+D:\Projects\RECAPS\WebCode\backend\Ben-Dashboard-backend-develop\Core\obj\Debug\net6.0\ref\Core.dll

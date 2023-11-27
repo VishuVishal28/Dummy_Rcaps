@@ -1,0 +1,48 @@
+D:\BEN\DataTransferObjects\bin\Release\net6.0\DataTransferObjects.deps.json
+D:\BEN\DataTransferObjects\bin\Release\net6.0\DataTransferObjects.dll
+D:\BEN\DataTransferObjects\bin\Release\net6.0\DataTransferObjects.pdb
+D:\BEN\DataTransferObjects\obj\Release\net6.0\DataTransferObjects.csproj.AssemblyReference.cache
+D:\BEN\DataTransferObjects\obj\Release\net6.0\DataTransferObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\BEN\DataTransferObjects\obj\Release\net6.0\DataTransferObjects.AssemblyInfoInputs.cache
+D:\BEN\DataTransferObjects\obj\Release\net6.0\DataTransferObjects.AssemblyInfo.cs
+D:\BEN\DataTransferObjects\obj\Release\net6.0\DataTransferObjects.csproj.CoreCompileInputs.cache
+D:\BEN\DataTransferObjects\obj\Release\net6.0\DataTransferObjects.dll
+D:\BEN\DataTransferObjects\obj\Release\net6.0\refint\DataTransferObjects.dll
+D:\BEN\DataTransferObjects\obj\Release\net6.0\DataTransferObjects.pdb
+D:\BEN\DataTransferObjects\obj\Release\net6.0\ref\DataTransferObjects.dll
+C:\Users\Hp\Downloads\BEN (1)\BEN (1)\BEN\DataTransferObjects\bin\Release\net6.0\DataTransferObjects.deps.json
+C:\Users\Hp\Downloads\BEN (1)\BEN (1)\BEN\DataTransferObjects\bin\Release\net6.0\DataTransferObjects.dll
+C:\Users\Hp\Downloads\BEN (1)\BEN (1)\BEN\DataTransferObjects\bin\Release\net6.0\DataTransferObjects.pdb
+C:\Users\Hp\Downloads\BEN (1)\BEN (1)\BEN\DataTransferObjects\obj\Release\net6.0\DataTransferObjects.csproj.AssemblyReference.cache
+C:\Users\Hp\Downloads\BEN (1)\BEN (1)\BEN\DataTransferObjects\obj\Release\net6.0\DataTransferObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Downloads\BEN (1)\BEN (1)\BEN\DataTransferObjects\obj\Release\net6.0\DataTransferObjects.AssemblyInfoInputs.cache
+C:\Users\Hp\Downloads\BEN (1)\BEN (1)\BEN\DataTransferObjects\obj\Release\net6.0\DataTransferObjects.AssemblyInfo.cs
+C:\Users\Hp\Downloads\BEN (1)\BEN (1)\BEN\DataTransferObjects\obj\Release\net6.0\DataTransferObjects.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Downloads\BEN (1)\BEN (1)\BEN\DataTransferObjects\obj\Release\net6.0\DataTransferObjects.dll
+C:\Users\Hp\Downloads\BEN (1)\BEN (1)\BEN\DataTransferObjects\obj\Release\net6.0\refint\DataTransferObjects.dll
+C:\Users\Hp\Downloads\BEN (1)\BEN (1)\BEN\DataTransferObjects\obj\Release\net6.0\DataTransferObjects.pdb
+C:\Users\Hp\Downloads\BEN (1)\BEN (1)\BEN\DataTransferObjects\obj\Release\net6.0\ref\DataTransferObjects.dll
+C:\Users\admin\OneDrive\Documents\ben\DataTransferObjects\bin\Release\net6.0\DataTransferObjects.deps.json
+C:\Users\admin\OneDrive\Documents\ben\DataTransferObjects\bin\Release\net6.0\DataTransferObjects.dll
+C:\Users\admin\OneDrive\Documents\ben\DataTransferObjects\bin\Release\net6.0\DataTransferObjects.pdb
+C:\Users\admin\OneDrive\Documents\ben\DataTransferObjects\obj\Release\net6.0\DataTransferObjects.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Documents\ben\DataTransferObjects\obj\Release\net6.0\DataTransferObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Documents\ben\DataTransferObjects\obj\Release\net6.0\DataTransferObjects.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Documents\ben\DataTransferObjects\obj\Release\net6.0\DataTransferObjects.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Documents\ben\DataTransferObjects\obj\Release\net6.0\DataTransferObjects.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Documents\ben\DataTransferObjects\obj\Release\net6.0\DataTransferObjects.dll
+C:\Users\admin\OneDrive\Documents\ben\DataTransferObjects\obj\Release\net6.0\refint\DataTransferObjects.dll
+C:\Users\admin\OneDrive\Documents\ben\DataTransferObjects\obj\Release\net6.0\DataTransferObjects.pdb
+C:\Users\admin\OneDrive\Documents\ben\DataTransferObjects\obj\Release\net6.0\ref\DataTransferObjects.dll
+D:\Projects\RECAPS\WebCode\backend\Ben-Dashboard-backend-develop\DataTransferObjects\bin\Release\net6.0\DataTransferObjects.deps.json
+D:\Projects\RECAPS\WebCode\backend\Ben-Dashboard-backend-develop\DataTransferObjects\bin\Release\net6.0\DataTransferObjects.dll
+D:\Projects\RECAPS\WebCode\backend\Ben-Dashboard-backend-develop\DataTransferObjects\bin\Release\net6.0\DataTransferObjects.pdb
+D:\Projects\RECAPS\WebCode\backend\Ben-Dashboard-backend-develop\DataTransferObjects\obj\Release\net6.0\DataTransferObjects.csproj.AssemblyReference.cache
+D:\Projects\RECAPS\WebCode\backend\Ben-Dashboard-backend-develop\DataTransferObjects\obj\Release\net6.0\DataTransferObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\RECAPS\WebCode\backend\Ben-Dashboard-backend-develop\DataTransferObjects\obj\Release\net6.0\DataTransferObjects.AssemblyInfoInputs.cache
+D:\Projects\RECAPS\WebCode\backend\Ben-Dashboard-backend-develop\DataTransferObjects\obj\Release\net6.0\DataTransferObjects.AssemblyInfo.cs
+D:\Projects\RECAPS\WebCode\backend\Ben-Dashboard-backend-develop\DataTransferObjects\obj\Release\net6.0\DataTransferObjects.csproj.CoreCompileInputs.cache
+D:\Projects\RECAPS\WebCode\backend\Ben-Dashboard-backend-develop\DataTransferObjects\obj\Release\net6.0\DataTransferObjects.dll
+D:\Projects\RECAPS\WebCode\backend\Ben-Dashboard-backend-develop\DataTransferObjects\obj\Release\net6.0\refint\DataTransferObjects.dll
+D:\Projects\RECAPS\WebCode\backend\Ben-Dashboard-backend-develop\DataTransferObjects\obj\Release\net6.0\DataTransferObjects.pdb
+D:\Projects\RECAPS\WebCode\backend\Ben-Dashboard-backend-develop\DataTransferObjects\obj\Release\net6.0\ref\DataTransferObjects.dll
